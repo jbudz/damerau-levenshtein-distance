@@ -1,0 +1,19 @@
+{
+  "name": "damerau-levenshtein-distance",
+  "version": "0.0.1",
+  "description": "",
+  "main": "src/index.js",
+  "dependencies": {
+    "grunt-babel": "^4.0.0",
+    "grunt": "^0.4.5"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.1",
+    "should": "^5.2.0"
+  },
+  "scripts": {
+    "test": "grunt && mocha"
+  },
+  "author": "",
+  "license": "MIT"
+}
